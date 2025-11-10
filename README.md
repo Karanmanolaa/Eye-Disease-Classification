@@ -30,7 +30,7 @@ This project was built using Python.
 
 ![Cataract Eye Samples](assets/Cataract%20Eye%20Samples.png)
 
-![Diabetic Retinopathy Eye Samples](assets/Diabetic_Retinopathy_eye_samples.png)
+![Diabetic Eye](assets/Diabetic_eye.png)
 
 ![Glaucoma Eye Samples](assets/Glaucoma_eye_samples.png)
 
