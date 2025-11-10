@@ -34,7 +34,6 @@ This project was built using Python.
 
 ![Glaucoma Eye Samples](assets/Glaucoma_eye_samples.png)
 
-Normal eye samples
 ![Normal Eye Samples](assets/Normal_eye_samples.png)
 
 ### CNN Accuracy and Loss
