@@ -22,10 +22,22 @@ This project was built using Python.
 ###  Data Analysis & Modeling
 
 - **Libraries:** TensorFlow, Keras, NumPy, Matplotlib, scikit-learn, OS, glob, random
-- **Model Architecture:** EfficientNet (Transfer Learning), CNN Architecture
+- **Model Architecture:** EfficientNetB0 (Transfer Learning), CNN Architecture
 - **Callbacks:** EarlyStopping and ReduceLROnPlateau to prevent overfitting and stabilize learning
 - **Evaluation Metrics:** Accuracy, Precision, Recall, F1-score
 
 # Visualization 
 
+![Cataract Eye Samples](assets/Cataract%20Eye%20Samples.png)
+![Diabetic Retinopathy Eye Samples](assets/Diabetic_Retinopathy_eye_samples.png)
+![Glaucoma Eye Samples](assets/Glaucoma_eye_samples.png)
+![Normal Eye Samples](assets/Normal_eye_samples.png)
+
+### CNN Accuracy and Loss
+![CNN Accuracy](assets/CNN_Accuracy.png)
+![CNN Loss](assets/CNN_Loss.png)
+
+### EfficientNetB0 Accuracy and Loss
+![EFF Accuracy](assets/EFF_Acc.png)
+![EFF Loss](assets/EFF_Loss.png)
 
