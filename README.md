@@ -29,8 +29,12 @@ This project was built using Python.
 # Visualization 
 
 ![Cataract Eye Samples](assets/Cataract%20Eye%20Samples.png)
+
 ![Diabetic Retinopathy Eye Samples](assets/Diabetic_Retinopathy_eye_samples.png)
+
 ![Glaucoma Eye Samples](assets/Glaucoma_eye_samples.png)
+
+Normal eye samples
 ![Normal Eye Samples](assets/Normal_eye_samples.png)
 
 ### CNN Accuracy and Loss
